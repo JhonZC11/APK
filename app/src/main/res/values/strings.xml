@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">ADSO</string>
+    <string name="app_name">MyFirstApp</string>
+    <string name="button_show_message">Show Message</string>
+    <string name="button_open_second_activity">Open Second Screen</string>
+    <string name="button_show_message_second">Show Message</string>
 </resources>
